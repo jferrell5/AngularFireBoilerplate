@@ -2,7 +2,7 @@
 
 # Firebase config
 /firebase.json
-/firebaserc
+/.firebaserc
 /src/environments/environment.ts
 
 # compiled output
